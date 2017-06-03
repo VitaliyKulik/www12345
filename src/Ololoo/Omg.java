@@ -87,6 +87,8 @@ public class Omg {
         }
     }
 
+
+
    /* private static void reversArr(int[] arr) {
         for (int k = 0; k < arr.length / 2; k++) {
             int temp = arr[k];
